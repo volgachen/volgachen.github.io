@@ -2,8 +2,9 @@
 title:          "Obj2Seq: Formatting objects as sequences with class prompts for visual tasks"
 date:           2022-10-31 00:01:00 +0800
 selected:       true
-pub:            "Neural Information Processing Systems 2022"
+pub:            "Neural Information Processing Systems"
 pub_date:       "2022"
+category:       "1. Foundation Vision Model"
 abstract: >-
   We propose a general definition that encompasses a wide range of visual tasks, so that all their outputs can be decoded in an identical way: treating objects as fundamental units and generating multiple sequences based on the input image and class prompts. According to this, we build a language-guided general vision model that can meet diverse task requirements and achieve comparable performance with specialized models.
 cover:          /assets/images/covers/Obj2Seq_NeurIPS2022.png
