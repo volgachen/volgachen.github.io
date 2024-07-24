@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Zhiyang Chen"
 
 positions:
-- name: Position without logo
-- logo: /assets/images/badges/PKU_red.png
+# - name: Position without logo
+- logo: /assets/images/badges/westlake_icon.png
   name: Post Doc., Westlake University (2024)
 
 email: "volgachen@gmail.com"
@@ -28,12 +28,12 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Xi'an University
-  logo: /assets/images/badges/PKU_red.png
+- name: Xi'an Jiaotong University
+  logo: /assets/images/badges/xjtu_icon.png
   position: B.S. in Automation
   date: Sep. 2015 - Jun. 2019
 - name: Institute of Automation, CAS
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/casia_icon.png
   position: Ph.D.
   date: Sep. 2019 - Jun. 2024
 
