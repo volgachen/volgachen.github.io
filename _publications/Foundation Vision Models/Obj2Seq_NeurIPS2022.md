@@ -3,6 +3,7 @@ title:          "Obj2Seq: Formatting objects as sequences with class prompts for
 date:           2022-10-31 00:01:00 +0800
 selected:       true
 pub:            "Neural Information Processing Systems (NeurIPS)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2022"
 category:       "2. Foundation Vision Model"
 abstract: >-

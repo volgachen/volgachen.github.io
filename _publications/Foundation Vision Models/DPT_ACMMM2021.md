@@ -3,6 +3,7 @@ title:          "DPT: Deformable patch-based transformer for visual recognition"
 date:           2021-10-24 00:01:00 +0800
 selected:       true
 pub:            "ACM Multimedia Conference (ACM MM)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2021"
 category:       "2. Foundation Vision Model"
 abstract: >-
