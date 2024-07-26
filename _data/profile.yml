@@ -53,9 +53,9 @@ education:
 #   date: 2021
 
 experience:
-- name: Research Intern
+- name: SenseTime, Beijing
   logo: /assets/images/badges/SenseTime_logo.png
   position: General Vison Model, Self-Supervised Learning
-- name: Research Intern
-  logo: /assets/images/badges/MiHoYo_logo.png
+- name: MiHoYo, Beijing
+  logo: /assets/images/badges/MiHoYo_Logo.png
   position: Large Language Models, AI for Game
