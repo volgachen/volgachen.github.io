@@ -1,7 +1,7 @@
 ---
 title:          "The devil is in details: Delving into lite ffn design for vision transformers"
-date:           2024-04-14 00:01:00 +0800
-selected:       false
+date:           2024-09-14 00:01:00 +0800
+selected:       true
 pub:            "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 pub_date:       "2024"
 category:       "2. Foundation Vision Model"
