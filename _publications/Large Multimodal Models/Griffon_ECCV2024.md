@@ -6,7 +6,7 @@ pub:            "European Conference on Computer Vision (ECCV)"
 pub_date:       "2024"
 category:       "1. Large Multimodal Models"
 abstract: >-
-  TBD
+  Griffon is a Large Vision-Language Model that can accurately identify and locate objects of interest based on free-form texts. It is realized with a unified data format consisting pure text, without introducing any specific tokens or expert models.
 cover:          /assets/images/covers/Griffon_ECCV2024.png
 authors:
 - Yufei Zhan
