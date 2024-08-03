@@ -19,9 +19,10 @@ github: volgachen
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I am currently a member of <a href="http://maple-lab.net/">Machine Perception & Learning (MAPLE)</a> Lab, Westlake University, working with Prof. Guo-Jun Qi. I obtained my Ph.D. from Institute of Automation, Chinese Academy of Sciences in June 2024, under the supervision of Prof. Ming Tang, Prof. Jinqiao Wang and Prof. Yousong Zhu.
+
+  My research interests includes multi-modal content perception and generation, and I currently focus on building large multimodal models.
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
