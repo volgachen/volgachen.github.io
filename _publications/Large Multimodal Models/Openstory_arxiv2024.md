@@ -7,7 +7,7 @@ pub_date:       "2024"
 category:       "1. Large Multimodal Models"
 # abstract: >-
 #   TBD
-cover:          /assets/images/covers/Openstory_2024.png
+cover:          /assets/images/covers/Openstory_arxiv2024.png
 authors:
 - Zilyu Ye
 - Jinxiu Liu

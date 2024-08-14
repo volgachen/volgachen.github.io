@@ -7,7 +7,7 @@ pub_date:       "2023"
 category:       "1. Large Multimodal Models"
 abstract: >-
   TBD
-cover:          /assets/images/covers/Hallu_2023.png
+cover:          /assets/images/covers/Hallu_arxiv2023.png
 authors:
 - Zhiyang Chen
 - Yousong Zhu
