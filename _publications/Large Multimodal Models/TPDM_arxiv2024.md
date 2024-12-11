@@ -14,7 +14,7 @@ authors:
 - Tiancheng Li
 - Zemin Huang
 - Weijian Luo
-- Guo-Jun Qi
+- Guo-Jun Qi#
 links:
   Paper: https://arxiv.org/abs/2412.01243
 ---
