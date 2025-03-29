@@ -1,9 +1,9 @@
 ---
 title:          "Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation"
-date:           2024-12-06 00:01:00 +0800
+date:           2025-06-15 00:01:00 +0800
 selected:       true
-pub:            "arxiv"
-pub_date:       "2024"
+pub:            "Computer Vision and Pattern Recognition (CVPR) 2025"
+pub_date:       "2025"
 category:       "1. Large Multimodal Models"
 abstract: >-
   A Reforcement-Tuned Diffusion Model that can adjust the noise schedule on the fly, assigning fewer denoising steps on simple samples while more steps on complex ones.
@@ -17,4 +17,5 @@ authors:
 - Guo-Jun Qi#
 links:
   Paper: https://arxiv.org/abs/2412.01243
+  Code: https://github.com/maple-research-lab/TPDM
 ---
