@@ -2,7 +2,7 @@
 title:          "Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation"
 date:           2025-06-15 00:01:00 +0800
 selected:       true
-pub:            "Computer Vision and Pattern Recognition (CVPR) 2025"
+pub:            "Computer Vision and Pattern Recognition (CVPR)"
 pub_date:       "2025"
 category:       "1. Large Multimodal Models"
 abstract: >-
