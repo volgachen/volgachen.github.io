@@ -1,7 +1,7 @@
 ---
 title:          "Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models"
 date:           2024-10-31 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "European Conference on Computer Vision (ECCV)"
 pub_date:       "2024"
 category:       "1. Large Multimodal Models"

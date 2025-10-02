@@ -2,7 +2,7 @@
 title:          "Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models"
 date:           2025-06-16 00:01:00 +0800
 selected:       true
-pub:            "arxiv"
+pub:            "Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2025"
 category:       "1. Large Multimodal Models"
 # abstract: >-
@@ -16,4 +16,5 @@ authors:
 - Guo-Jun Qi
 links:
   Paper: https://arxiv.org/abs/2505.10446
+  Code: https://github.com/maple-research-lab/LLaDOU
 ---
