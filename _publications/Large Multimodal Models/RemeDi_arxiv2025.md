@@ -5,8 +5,8 @@ selected:       true
 pub:            "arxiv"
 pub_date:       "2025"
 category:       "1. Large Multimodal Models"
-# abstract: >-
-#   A reasoning framework for diffusion language models, treating each intermediate step in the reverse diffusion process as a latent "thinking" action.
+abstract: >-
+  We propose RemeDi, a new diffusion language model that introduces remasking allowing model to detect and resample low-confidence tokens during generation.
 # cover:          /assets/images/covers/DCoLT_arxiv2025.png
 authors:
 - Zemin Huang
