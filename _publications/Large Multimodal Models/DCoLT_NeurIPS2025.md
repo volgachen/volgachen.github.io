@@ -17,4 +17,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2505.10446
   Code: https://github.com/maple-research-lab/LLaDOU
+  机器之心: http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650970675&idx=2&sn=914f5fbe03eaa53b67b4ce969cc976ba
 ---
