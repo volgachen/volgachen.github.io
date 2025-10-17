@@ -18,5 +18,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2412.01243
   Code: https://github.com/maple-research-lab/TPDM
-  新智元: http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652551055&idx=3&sn=e5608a8c6976f258decca12d40703e37
+  新智元: https://mp.weixin.qq.com/s/k7rfJI8gzzgec_dXqTIVyg
 ---
