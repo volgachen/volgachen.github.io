@@ -2,8 +2,8 @@
 title:          "Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models"
 date:           2025-09-25 00:01:00 +0800
 selected:       true
-pub:            "arxiv"
-pub_date:       "2025"
+pub:            "International Conference on Learning Representations (ICLR)"
+pub_date:       "2026"
 category:       "1. Large Multimodal Models"
 abstract: >-
   We propose RemeDi, a new diffusion language model that introduces remasking allowing model to detect and resample low-confidence tokens during generation.

@@ -2,8 +2,8 @@
 title:          "C-Evolve: Consensus-based Evolution for Prompt Groups"
 date:           2025-09-24 00:01:00 +0800
 selected:       true
-pub:            "arxiv"
-pub_date:       "2025"
+pub:            "International Conference on Learning Representations (ICLR)"
+pub_date:       "2026"
 category:       "1. Large Multimodal Models"
 abstract: >-
   An evolutionary algorithm that discovers a group of prompts whose aggregated outputs after majority voting achieve optimal performance.
