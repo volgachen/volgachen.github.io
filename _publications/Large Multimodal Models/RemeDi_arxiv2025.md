@@ -16,5 +16,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2509.23653
   Code: https://github.com/maple-research-lab/RemeDi
-  机器之心: https://mp.weixin.qq.com/s/EHO4S057hkOz2jhc_yFNNQ
+  中文介绍: https://mp.weixin.qq.com/s/EHO4S057hkOz2jhc_yFNNQ
 ---

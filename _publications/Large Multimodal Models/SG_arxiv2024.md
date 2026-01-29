@@ -16,4 +16,5 @@ authors:
 - Guo-Jun Qi
 links:
   Paper: https://arxiv.org/abs/2412.05827
+  Code: https://github.com/maple-research-lab/Self-Guidance
 ---

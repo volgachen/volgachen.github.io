@@ -17,5 +17,5 @@ authors:
 - Guo-Jun Qi
 links:
   Paper: https://arxiv.org/abs/2509.23331
-  量子位: https://mp.weixin.qq.com/s/DNPKMidbJeKNTH6sbMkGVQ
+  中文介绍: https://mp.weixin.qq.com/s/DNPKMidbJeKNTH6sbMkGVQ
 ---
